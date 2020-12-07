@@ -1,1 +1,2 @@
-# Malignant-Lung-Nodule-Detection-using-Deep-Learning
+# Lung-Cancer-Detection
+To detect lung cancer using deep learning techniques
